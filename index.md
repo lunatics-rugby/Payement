@@ -5,6 +5,6 @@
 
 </head>
 <body>
-
+<a href="test.html">Consulter les produits</a>
 </body>
 </html>
